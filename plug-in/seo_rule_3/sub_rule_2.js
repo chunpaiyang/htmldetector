@@ -4,7 +4,7 @@ module.exports = {
     description: "Header doesn't have <meta name=\"descriptions\" .../>",
     detect: ($) => {
         let items = $("head").children("meta[name='descriptions']");
-        
+
         return {
             need_report: 0 == items.length,
             value: 0 == items.length

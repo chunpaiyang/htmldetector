@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "plug-in/seo_rule_1"
 		}
 	]
 }
