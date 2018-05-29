@@ -1,5 +1,3 @@
-const util = require('util');
-
 module.exports = {
     name: "N_strong_tags",
     description: "More than N strong tags",

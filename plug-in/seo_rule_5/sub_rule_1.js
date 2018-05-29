@@ -1,5 +1,3 @@
-const util = require('util');
-
 module.exports = {
     name: "one_h1_tags",
     description: "More than 1 h1 tags",
